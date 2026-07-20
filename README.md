@@ -13,9 +13,7 @@ recommendations — in seconds.
 
 https://github.com/user-attachments/assets/6db22f94-0943-4bf7-83fa-589db7b91533
 
-<video src="https://github.com/user-attachments/assets/6db22f94-0943-4bf7-83fa-589db7b91533" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+
 ---
 
 ## What It Does
