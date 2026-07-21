@@ -19,7 +19,6 @@ https://github.com/user-attachments/assets/6db22f94-0943-4bf7-83fa-589db7b91533
 ## What It Does
 
 
-deko aisa sahi 
 Upload a CSV, select the data type (Sales / Attendance / Inventory /
 Finance / Employee), and get back:
 
@@ -100,4 +99,4 @@ the repo (`.env` is gitignored).
    | Expense | `expense`, `cost`, `spending` |
 
 
-# Authur :**SamanTarique**
+# Author :**SamanTarique**
