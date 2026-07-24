@@ -2,7 +2,7 @@
 
 An AI-powered service that turns raw business CSV data into a complete
 analytics report — KPIs, charts, an AI-written executive summary, and
-recommendations — in seconds.
+recommendations in seconds.
 
 **Project for:** SafeX Solutions — Business Automation Research
 **Module:** Individual Week 2 Contribution 
