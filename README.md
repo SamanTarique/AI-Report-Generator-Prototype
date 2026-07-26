@@ -97,6 +97,6 @@ the repo (`.env` is gitignored).
    | Warehouse | `warehouse` |
    | Income | `income`, `revenue`, `earning` |
    | Expense | `expense`, `cost`, `spending` |
-
+.
 
 # Author :**SamanTarique**
